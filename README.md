@@ -32,3 +32,13 @@ Use Spark SQL to interact with the metastore programmatically in your applicatio
 
 ## Getting Started Tutorial 
 https://www.cloudera.com/developers/get-started-with-hadoop-tutorial.html
+
+
+## Some websites about the CCA175 Certification
+
+https://www.itexams.com/exam/CCA175
+
+This website is pretty cool! Also there are some youtube videos, check them out!
+
+http://arun-teaches-u-tech.blogspot.com/
+https://www.youtube.com/playlist?list=PLRLUm7no962j8cf-mpXjrQqusWvw-gIJx
