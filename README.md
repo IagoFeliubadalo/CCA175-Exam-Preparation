@@ -40,6 +40,6 @@ https://www.itexams.com/exam/CCA175
 
 This website is pretty cool! Also there are some youtube videos, check them out!
 
-http://arun-teaches-u-tech.blogspot.com/
+Cool website -> http://arun-teaches-u-tech.blogspot.com/
 
-https://www.youtube.com/playlist?list=PLRLUm7no962j8cf-mpXjrQqusWvw-gIJx
+Youtube videos -> https://www.youtube.com/playlist?list=PLRLUm7no962j8cf-mpXjrQqusWvw-gIJx
